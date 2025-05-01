@@ -1,6 +1,6 @@
 # AWS SSM Parameter Store Backup
 
-- Founder: Abdullah Khawer (LinkedIn: https://www.linkedin.com/in/abdullah-khawer/)
+- Founder: Anushka Choudhary (LinkedIn: https://www.linkedin.com/in/anushka-choudhary-868399215 )
 
 ## Introduction
 
